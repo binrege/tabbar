@@ -1,0 +1,13 @@
+//第一步自定义一个类名  一定要很特殊 尽量用__标识
+//2.找到你要修改的类名
+//尽量加层级
+// .el__ipt {//自定义的父类名(如果父元素还是组件,一直往上找)
+//     .el-input__inner {
+//         width: 280px;
+//         border: none;
+//         height: 36px;
+//         border-radius: 20px !important;
+//         outline: none !important;
+//         background: #888888;
+//     }
+// }
