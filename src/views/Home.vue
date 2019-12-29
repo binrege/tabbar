@@ -2,6 +2,7 @@
   <div id="home">
     设置图标
     <div class="iconfont icon-shezhi"></div>
+
   </div>
 </template>
 
